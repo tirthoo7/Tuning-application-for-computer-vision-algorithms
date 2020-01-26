@@ -1,5 +1,5 @@
 # Tuning-application-for-computer-vision-algorithms
-Currently it is working on the web cam . It can be used as drawing your sketch application as well. This application can be extendable for tuning simple image file also.
+Currently, it is working on the webcam. It can be used as drawing your sketch application as well. This application can be extendable for tuning a simple image file also.
 
 <> Running an application
 
